@@ -16,3 +16,7 @@ gutenberg/error404*
 to_delete
 BACKUP
 .aider*
+
+# NPM
+node_modules
+_site

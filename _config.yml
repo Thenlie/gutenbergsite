@@ -49,7 +49,7 @@ exclude:
 # destination: /public/vhost/g/gutenberg/dev/html/
 # 
 # Production:
-destination: /public/vhost/g/gutenberg/html/
+destination: ./_site/public/vhost/g/gutenberg/html/
 
 timezone: America/New_York
 encoding: utf-8 # default

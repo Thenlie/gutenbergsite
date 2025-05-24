@@ -1,0 +1,15 @@
+{
+  "name": "gutenbergsite",
+  "version": "1.0.0",
+  "description": "This is the source content, database, and other internal files used for building the [gutenberg.org](https://www.gutenberg.org) website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^16.19.1",
+    "stylelint-config-standard": "^38.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+# Questions
+
+1. Are themes used at all? They contain a lot of duplicate code and commented out code. They also make the CSS formatting slightly more confusing. It makes sense if the different themes are being leveraged. If not, we should just remove them.
+
+2. style -> new_style -> style2 & nav -> new_nav. Are any of these stylesheets fully unused? Was the site migrated from nav to new_nav at some point? If so, is there any reason the old file still exists? If multiple stylesheets with similar names are being applied, what is the difference? Should we combine them or divide them up into more logical chunks?
+
+3. 

@@ -1,0 +1,75 @@
+
+gutenberg/new_nav.css
+  249:3  ✖  Unexpected duplicate selector "#menu .sub-menu li", first used at line 227  no-duplicate-selectors
+  305:1  ✖  Unexpected duplicate selector "nav", first used at line 2                   no-duplicate-selectors
+  310:1  ✖  Unexpected duplicate selector "#menu", first used at line 112               no-duplicate-selectors
+  314:1  ✖  Unexpected duplicate selector "#menu .main-menu", first used at line 128    no-duplicate-selectors
+  329:1  ✖  Unexpected duplicate selector "#menu .sub-menu", first used at line 153     no-duplicate-selectors
+  337:1  ✖  Unexpected duplicate selector "nav .donate", first used at line 59          no-duplicate-selectors
+
+gutenberg/new_style.css
+   176:1  ✖  Unexpected duplicate selector "#menu a", first used at line 119                 no-duplicate-selectors
+   181:1  ✖  Unexpected duplicate selector "#menu .sub-menu", first used at line 153         no-duplicate-selectors
+   257:3  ✖  Unexpected duplicate selector "#menu .sub-menu li", first used at line 235      no-duplicate-selectors
+   314:1  ✖  Unexpected duplicate selector "nav", first used at line 3                       no-duplicate-selectors
+   319:1  ✖  Unexpected duplicate selector "#menu", first used at line 114                   no-duplicate-selectors
+   323:1  ✖  Unexpected duplicate selector "#menu .main-menu", first used at line 128        no-duplicate-selectors
+   338:1  ✖  Unexpected duplicate selector "#menu .sub-menu", first used at line 153         no-duplicate-selectors
+   346:1  ✖  Unexpected duplicate selector "nav .donate", first used at line 61              no-duplicate-selectors
+  1197:1  ✖  Unexpected duplicate selector ".library .latest a", first used at line 705      no-duplicate-selectors
+  1273:1  ✖  Unexpected duplicate selector ".library .latest h1", first used at line 711     no-duplicate-selectors
+  1278:1  ✖  Unexpected duplicate selector ".box_shadow", first used at line 972             no-duplicate-selectors
+  1283:1  ✖  Unexpected duplicate selector ".box_announce", first used at line 1222          no-duplicate-selectors
+  1288:1  ✖  Unexpected duplicate selector ".page_content h1", first used at line 985        no-duplicate-selectors
+  1292:1  ✖  Unexpected duplicate selector ".page_content h2", first used at line 1003       no-duplicate-selectors
+  1300:1  ✖  Unexpected duplicate selector ".page_content a:hover", first used at line 1053  no-duplicate-selectors
+  1304:1  ✖  Unexpected duplicate selector ".footer", first used at line 1093                no-duplicate-selectors
+  1904:1  ✖  Unexpected duplicate selector "table", first used at line 1067                  no-duplicate-selectors
+
+gutenberg/pg-desktop-one.css
+  1091:1  ✖  Unexpected duplicate selector ".ui-icon", first used at line 61                                                                      no-duplicate-selectors
+  1855:1  ✖  Unexpected duplicate selector ".ui-widget-overlay", first used at line 68                                                            no-duplicate-selectors
+  2039:5  ✖  Unexpected duplicate "width"                                                                                                         declaration-block-no-duplicate-properties
+  2103:5  ✖  Unexpected duplicate "width"                                                                                                         declaration-block-no-duplicate-properties
+  2367:1  ✖  Unexpected duplicate selector ".ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl", first used at line 1827              no-duplicate-selectors
+  2374:1  ✖  Unexpected duplicate selector ".ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr", first used at line 1834             no-duplicate-selectors
+  2381:1  ✖  Unexpected duplicate selector ".ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl", first used at line 1841           no-duplicate-selectors
+  2388:1  ✖  Unexpected duplicate selector ".ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br", first used at line 1848          no-duplicate-selectors
+  2395:1  ✖  Unexpected duplicate selector ".ui-widget", first used at line 937                                                                   no-duplicate-selectors
+  2400:1  ✖  Unexpected duplicate selector ".ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button", first used at line 946  no-duplicate-selectors
+  2408:1  ✖  Unexpected duplicate selector ".ui-widget-header", first used at line 964                                                            no-duplicate-selectors
+  2413:1  ✖  Unexpected duplicate selector ".ui-widget-content", first used at line 954                                                           no-duplicate-selectors
+  2417:1  ✖  Unexpected duplicate selector ".ui-tabs", first used at line 875                                                                     no-duplicate-selectors
+  2467:1  ✖  Unexpected duplicate selector ".ui-autocomplete", first used at line 107                                                             no-duplicate-selectors
+  2616:5  ✖  Unexpected duplicate "display"                                                                                                       declaration-block-no-duplicate-properties
+
+gutenberg/pg-mobile-one.css
+  81:5  ✖  Unexpected duplicate "background"  declaration-block-no-duplicate-properties
+  82:5  ✖  Unexpected duplicate "background"  declaration-block-no-duplicate-properties
+  83:5  ✖  Unexpected duplicate "background"  declaration-block-no-duplicate-properties
+
+gutenberg/style.css
+  274:2  ✖  Unexpected duplicate selector ".book .download", first used at line 270        no-duplicate-selectors
+  605:1  ✖  Unexpected duplicate selector ".library .latest a", first used at line 187     no-duplicate-selectors
+  691:1  ✖  Unexpected duplicate selector ".box_shadow", first used at line 349            no-duplicate-selectors
+  696:1  ✖  Unexpected duplicate selector ".box_announce", first used at line 635          no-duplicate-selectors
+  701:1  ✖  Unexpected duplicate selector ".page_content h1", first used at line 362       no-duplicate-selectors
+  705:1  ✖  Unexpected duplicate selector ".page_content h2", first used at line 381       no-duplicate-selectors
+  713:1  ✖  Unexpected duplicate selector ".page_content a:hover", first used at line 431  no-duplicate-selectors
+  717:1  ✖  Unexpected duplicate selector ".footer", first used at line 505                no-duplicate-selectors
+
+gutenberg/style2.css
+  277:5  ✖  Unexpected duplicate selector ".book .download", first used at line 273        no-duplicate-selectors
+  598:1  ✖  Unexpected duplicate selector ".library .latest a", first used at line 187     no-duplicate-selectors
+  684:1  ✖  Unexpected duplicate selector ".box_shadow", first used at line 350            no-duplicate-selectors
+  689:1  ✖  Unexpected duplicate selector ".box_announce", first used at line 628          no-duplicate-selectors
+  694:1  ✖  Unexpected duplicate selector ".page_content h1", first used at line 363       no-duplicate-selectors
+  698:1  ✖  Unexpected duplicate selector ".page_content h2", first used at line 382       no-duplicate-selectors
+  706:1  ✖  Unexpected duplicate selector ".page_content a:hover", first used at line 431  no-duplicate-selectors
+  710:1  ✖  Unexpected duplicate selector ".footer", first used at line 502                no-duplicate-selectors
+  799:5  ✖  Unexpected duplicate "padding"                                                 declaration-block-no-duplicate-properties
+  877:1  ✖  Unexpected duplicate selector ".page_content", first used at line 331          no-duplicate-selectors
+
+✖ 59 problems (59 errors, 0 warnings)
+  7 errors potentially fixable with the "--fix" option.
+
